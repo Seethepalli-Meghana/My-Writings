@@ -85,6 +85,6 @@ Oracle Cloud specializes in **enterprise-grade databases**:
 
 ---
 
-## 🎯 Conclusion  
+##  Conclusion  
 AWS and Oracle Cloud cater to different audiences. **AWS** is ideal for general-purpose cloud computing, while **Oracle Cloud** excels in **enterprise-grade databases and high-performance workloads**. The best choice depends on **your specific use case, performance needs, and budget**.  
 
