@@ -1,15 +1,15 @@
-# ☁️ AWS vs. Oracle Cloud: A Comparison  
+#  AWS vs. Oracle Cloud: A Comparison  
 
-## 📌 Introduction  
+##  Introduction  
 Amazon Web Services (**AWS**) and Oracle Cloud Infrastructure (**OCI**) are two leading cloud platforms, offering services for computing, storage, databases, and AI. While AWS dominates the market with its vast ecosystem, Oracle Cloud is known for its enterprise-grade database and performance optimization.  
 
 ---
 
-## 🔍 Key Differences Between AWS & Oracle Cloud
+##  Key Differences Between AWS & Oracle Cloud
 
 | Feature         | AWS | Oracle Cloud |
 |---------------|-----|--------------|
-| **Market Share** | 🌍 Largest cloud provider | 📈 Growing but smaller market share |
+| **Market Share** |  Largest cloud provider |  Growing but smaller market share |
 | **Computing Services** | EC2, Lambda, ECS | Compute Instances, Functions |
 | **Database Services** | RDS, DynamoDB, Aurora | Autonomous Database, Exadata |
 | **AI & ML** | SageMaker, Bedrock | OCI Data Science, AI Services |
@@ -21,7 +21,7 @@ Amazon Web Services (**AWS**) and Oracle Cloud Infrastructure (**OCI**) are two 
 
 ---
 
-## 🖥️ Compute Services  
+##  Compute Services  
 
 ### **AWS Compute (EC2, Lambda, ECS)**  
 AWS offers **scalable computing services** with **EC2 instances**, serverless **Lambda**, and container-based **ECS**.  
@@ -35,7 +35,7 @@ Oracle Cloud provides **bare metal, VM, and GPU instances** optimized for high-p
 
 ---
 
-## 📊 Database Services  
+##  Database Services  
 
 ### **AWS Databases**  
 AWS offers a variety of **managed databases**:  
@@ -48,11 +48,11 @@ Oracle Cloud specializes in **enterprise-grade databases**:
 - **Autonomous Database** (Self-tuning and automated DB).  
 - **Exadata** (High-performance for mission-critical workloads).  
 
-💡 *If you need a robust database for large-scale applications, Oracle Cloud may be a better choice.*  
+ *If you need a robust database for large-scale applications, Oracle Cloud may be a better choice.*  
 
 ---
 
-## 💰 Pricing & Cost Efficiency  
+##  Pricing & Cost Efficiency  
 
 | **Service**        | **AWS Pricing** | **Oracle Cloud Pricing** |
 |-------------------|---------------|-------------------|
@@ -60,27 +60,27 @@ Oracle Cloud specializes in **enterprise-grade databases**:
 | **Storage** | S3: $0.023/GB | OCI Object Storage: $0.0255/GB |
 | **Database** | RDS: Varies by engine | Autonomous DB: Starts at $0.098 per hour |
 
-💡 *Oracle Cloud often provides **lower outbound data transfer costs**, making it more cost-effective for some workloads.*  
+ *Oracle Cloud often provides **lower outbound data transfer costs**, making it more cost-effective for some workloads.*  
 
 ---
 
-## 🚀 Which Cloud is Better?  
+##  Which Cloud is Better?  
 
-✅ **Choose AWS if:**  
+ **Choose AWS if:**  
 - You need a **broad range of services** with global availability.  
 - You work with **multi-cloud and hybrid cloud** environments.  
 - You require **advanced AI/ML tools** like SageMaker.  
 
-✅ **Choose Oracle Cloud if:**  
+ **Choose Oracle Cloud if:**  
 - You rely heavily on **Oracle Databases**.  
 - You need **bare metal instances** for high-performance computing.  
 - You prefer **cost-efficient outbound data transfer pricing**.  
 
 ---
 
-## 📚 Learn More  
-📖 [AWS Official Documentation](https://docs.aws.amazon.com/)  
-📖 [Oracle Cloud Documentation](https://docs.oracle.com/en/cloud/)  
+##  Learn More  
+ [AWS Official Documentation](https://docs.aws.amazon.com/)  
+ [Oracle Cloud Documentation](https://docs.oracle.com/en/cloud/)  
 
 
 ---
