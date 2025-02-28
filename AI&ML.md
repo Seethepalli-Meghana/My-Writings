@@ -74,6 +74,6 @@ For those interested in AI & ML, check out these resources:
 
 ---
 
-## 🎯 Conclusion  
+##  Conclusion  
 AI and ML are shaping the future by enhancing automation, efficiency, and innovation across industries. With continued advancements, these technologies will play an even more significant role in our daily lives.  
 
